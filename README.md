@@ -1,13 +1,11 @@
 # Auto_Manage
-Internal tool for assigning and verifying activities and internal documentation developed by CRUX Studio
+Internal tool for assigning and verifying activities wich require daily following, developed by CRUX Studio. temporally opensource.
 
--- Grid de mosaico para seguimiento de actividades según actividad, tema o tarea.
--- Sección de to do list
--- Sección de documentación por texto.
--- Sección de Gannt
+-- Grid by activity.
+-- To do list section.
 
 
---Base de datos SQLite
+--DB SQLite
 
---Backend con Javascript Next.Js o Express
+--Backend with Javascript Next y TS
 
